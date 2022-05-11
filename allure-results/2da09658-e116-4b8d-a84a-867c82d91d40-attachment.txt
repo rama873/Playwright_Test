@@ -1,0 +1,5 @@
+[
+  [32m'zara coat 3$ 31500 View Add To Cart'[39m,
+  [32m'adidas original$ 31500 View Add To Cart'[39m,
+  [32m'iphone 13 pro$ 231500 View Add To Cart'[39m
+]
